@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func add(x int, y int) int {
-    return x + y
+	return x + y
 }
 
 func main() {
-    fmt.Println(add(10, 23))
+	fmt.Println(add(10, 23))
 }
